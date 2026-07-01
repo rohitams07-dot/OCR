@@ -1,0 +1,25 @@
+# Environments
+venv/
+env/
+.venv/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project specific folders
+output/
+uploads/
+processed/
+automation/temp/
+
+# IDEs and Editors
+.idea/
+.vscode/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
